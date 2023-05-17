@@ -13,8 +13,8 @@ commentStart: %!
 
 commentEnd: !%
 
-## Supports these file extensions
+### Supports these file extensions
 ```
 .njk, .nj, .nunjucks
 ```
-Forked from vscode-nunjucks (ronnidc)
+### Forked from vscode-nunjucks (ronnidc)
