@@ -1,14 +1,17 @@
-# THIS IS A CUSTOM SYNTAX HIGHLIGHTER FOR A LATEX-COMPATIBLE NUNJUCKS SYNTAX:
+# This is a highlighter for a custom Nunjucks syntax intended to be compatible with LaTeX
 
-# BASED OFF OF THE FOLLOWING NUNJUCKS SYNTAX:
-tags: {
-        variableStart: '#!',
-        variableEnd: '!#',
-        blockStart: '[##',
-        blockEnd: '##]',
-        commentStart: '%!',
-        commentEnd: '!%'
-    }
+## Nunjucks syntax:
+variableStart: #!
+
+variableEnd: !#
+
+blockStart: [##
+
+blockEnd: ##]
+
+commentStart: %!
+
+commentEnd: !%
 
 ## Supports these file extensions
 ```
